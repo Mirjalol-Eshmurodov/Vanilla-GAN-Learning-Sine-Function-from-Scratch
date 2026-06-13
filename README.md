@@ -27,7 +27,7 @@ A Generative Adversarial Network (GAN) trained from scratch using PyTorch to lea
 
 After ~700 epochs, the Generator successfully learned the sine curve shape:
 
-![Training Result](results/final_epoch.png)
+![Training Result](p700.png)
 
 Green ★ = Generated samples · Red · = Real sine data
 
